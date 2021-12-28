@@ -1,0 +1,6 @@
+
+ATIVIDADE 01 DA UC VERSIONAMENTO
+
+- Criando novo arquivo do projeto da Atividade 01.
+
+- Realizando a Primeira Alteração no arquivo seguida de Commit.

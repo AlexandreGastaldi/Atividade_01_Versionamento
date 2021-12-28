@@ -2,3 +2,5 @@
 ATIVIDADE 01 DA UC VERSIONAMENTO
 
 - Iniciando a Atividade 01.
+
+- Realizando a Primeira Alteração seguida de Commit.
